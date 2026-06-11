@@ -1,16 +1,17 @@
 # Klasifikasi Tingkat Kesegaran Ikan Tongkol Berdasarkan Citra Mata Menggunakan Algoritma Random Forest
 
 ## Anggota Kelompok
-1. Nama 1
-2. Nama 2
-3. Nama 3
+1. Muhammad Aizam Fahriza Limbong 
+2. Syifa Assyrri
+3. Faimam Mulyansyah
+4. Teuku Fajar. TI
 
 ## Deskripsi
 Penelitian ini bertujuan mengklasifikasikan tingkat kesegaran ikan tongkol berdasarkan citra mata menggunakan algoritma Random Forest.
 
 ## Dataset
-- Data GitHub: 170 citra
-- Data Primer: 50 citra
+- Data Sekunder (GitHub): 170 citra
+- Data Primer: ~ citra
 
 ## Tahapan
 1. Preprocessing
