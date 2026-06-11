@@ -4,7 +4,7 @@
 - Fajar
 - Faimam
 - Syifa
-#Pemelitian Kesegaran Tongkol
-#Dataset Primer dan sekunder 
-#jalankan
-#hasil
+# Pemelitian Kesegaran Tongkol
+# Dataset Primer dan sekunder 
+# jalankan
+# hasil
