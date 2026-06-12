@@ -2,7 +2,7 @@
 
 ## Anggota Kelompok
 1. Muhammad Aizam Fahriza Limbong 
-2. Syifa Assyrri
+2. Syifa Assirri
 3. Teuku Fajar. TI
 4. Faimam Mulyansyah
 
