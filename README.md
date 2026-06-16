@@ -3,8 +3,8 @@
 ## Anggota Kelompok
 1. Muhammad Aizam Fahriza Limbong 
 2. Syifa Assirri
-3. Faimam Mulyansyah
-4. Teuku Fajar. TI
+3. Teuku Fajar. TI
+4. Faimam Mulyansyah
 
 ## Deskripsi
 Penelitian ini bertujuan mengklasifikasikan tingkat kesegaran ikan tongkol berdasarkan citra mata menggunakan algoritma Random Forest.
