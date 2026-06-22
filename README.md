@@ -6,7 +6,7 @@ Proyek ini merupakan penelitian di bidang Pengolahan Citra Digital (PCD) yang be
 
 Mata ikan dipilih sebagai objek penelitian karena merupakan salah satu indikator visual yang dapat menunjukkan tingkat kesegaran ikan. Perubahan warna, kejernihan, dan tekstur pada mata ikan dapat digunakan untuk membedakan kondisi ikan yang masih segar maupun yang sudah tidak segar.
 
-Dataset yang digunakan dalam penelitian ini merupakan **181 citra primer** yang diperoleh secara langsung melalui pengambilan gambar di lapangan. Setiap citra kemudian diberi label ke dalam dua kelas, yaitu:
+Dataset yang digunakan dalam penelitian ini merupakan ***181 citra primer*** yang diperoleh secara langsung melalui pengambilan gambar di lapangan. Setiap citra kemudian diberi label ke dalam dua kelas, yaitu:
 
 - Segar
 - Tidak Segar
