@@ -178,7 +178,6 @@ model/
 │
 ├── ekstraksi_fitur.py
 ├── train_random_forest.py
-├── app_prediksi.py
 ├── dataset_fitur.csv
 ├── model_random_forest_ikan.pkl
 └── requirements.txt
